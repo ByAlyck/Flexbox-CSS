@@ -74,5 +74,3 @@ Uma das grandes vantagens do Flexbox é sua capacidade de criar layouts responsi
     |          |  Content |  Self   |
     |__________|__________|_________|
 
-
-Em resumo, o Flexbox CSS é uma ferramenta poderosa para criar layouts flexíveis e responsivos. Com suas propriedades simples e intuitivas, você pode organizar e alinhar os elementos de forma eficiente em um container. A capacidade de controlar a direção, o alinhamento e o comportamento dos itens torna o Flexbox uma escolha popular para criar designs modernos e adaptáveis em páginas da web.
