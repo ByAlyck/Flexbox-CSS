@@ -18,4 +18,61 @@ Outras propriedades, como `align-content` e `order`, também estão disponíveis
 
 Uma das grandes vantagens do Flexbox é sua capacidade de criar layouts responsivos de maneira eficiente. Combinado com media queries, você pode ajustar as propriedades do Flexbox com base no tamanho da tela, garantindo que seu layout seja adaptável a diferentes dispositivos.
 
+            Flexbox CSS
+                |
+                |
+     _______________________________
+    |            |                  |
+    |   Flex     |    Flex Container |
+    |   Item     |                  |
+    |____________|__________________|
+                |
+                |
+       _____________________
+      |           |         |
+      |  Flex     |   Flex  |
+      |  Item     |   Container |
+      |___________|_________|
+                |
+                |
+         _______________
+        |               |
+        |   Flexbox     |
+        |   Properties  |
+        |_______________|
+                |
+                |
+     ______________________________
+    |          |          |         |
+    |  Flex    |   Flex   |  Flex   |
+    |  Item    |   Item   |  Item   |
+    |  Order   |   Grow   |  Shrink |
+    |          |          |_________|
+    |__________|__________________|
+                |
+                |
+     ______________________________
+    |          |          |         |
+    |   Flex   |   Flex   |   Flex  |
+    |   Item   |   Item   |   Item  |
+    |   Basis  |   Align  |   Wrap  |
+    |          |   Items  |   and   |
+    |__________|__________|_________|
+                |
+                |
+          ___________________
+         |                   |
+         |   Flex Container  |
+         |   Properties      |
+         |___________________|
+                |
+                |
+     _______________________________
+    |          |          |         |
+    |  Flex    |   Flex   |  Flex   |
+    |  Direction|  Justify |  Align  |
+    |          |  Content |  Self   |
+    |__________|__________|_________|
+
+
 Em resumo, o Flexbox CSS é uma ferramenta poderosa para criar layouts flexíveis e responsivos. Com suas propriedades simples e intuitivas, você pode organizar e alinhar os elementos de forma eficiente em um container. A capacidade de controlar a direção, o alinhamento e o comportamento dos itens torna o Flexbox uma escolha popular para criar designs modernos e adaptáveis em páginas da web.
