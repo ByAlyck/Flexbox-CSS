@@ -16,7 +16,7 @@ Caso seu container possua várias linhas de itens, você pode usar a propriedade
 
 Outras propriedades, como `align-content` e `order`, também estão disponíveis no Flexbox e permitem um controle mais detalhado do layout dos itens.
 
-Uma das grandes vantagens do Flexbox é sua capacidade de criar layouts responsivos de maneira eficiente. Combinado com media queries, você pode ajustar as propriedades do Flexbox com base no tamanho da tela, garantindo que seu layout seja adaptável a diferentes dispositivos.
+Uma das grandes vantagens do Flexbox é sua capacidade de criar layouts responsivos de maneira eficiente. Combinado com media queries, você pode ajustar as propriedades do Flexbox com base no tamanho da tela, garantindo que seu layout seja adaptável a diferentes dispositivos. ...
 
             Flexbox CSS
                 |
